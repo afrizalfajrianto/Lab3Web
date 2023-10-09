@@ -5,42 +5,55 @@
 ### Membuat Ordered List
 Buat file baru dengan extension HTML dan buatlah code seperti gambar berikut
 ![Ordered List](Screenshot/Orderedlist.png)
+
 ![Output Ordered List](Screenshot/OutputOrderedlist.png)
 
 ### Membuat Unordered List
 Langkah berikutnya tambah code,setelah deklarasi ordered list pada section Unordered List pada file yang sama ikuti dengan code yang ada pada gambar berikut
 ![Unordered List](Screenshot/Unorderedlist.png)
+
 ![Output Unordered List](Screenshot/OutputUnorderedlist.png)
 
 ### Membuat Description List
 Tambahkan code untuk membuat description list setelah deklarasi unordered List
 ![Description List](Screenshot/Descriptionlist.png)
+
 ![Output Description List](Screenshot/OutputDescription.png)
 
 ### Membuat Tabel
 Buat file baru dengan nama lab3_tabel.html, Selanjutnya tambahkan code untuk membuat tabel sederhana seperti gambar berikut
-![Tabel1](Screenshot/Tabel.png)
-[Output Tabel](Screenshot/OutputTabel.png)
+![Tabel](Screenshot/Tabel.png)
+
+![Output Tabel](Screenshot/OutputTabel.png)
 
 ### Mengatur Margin dan Padding
 Untuk mengatur Margin dan Padding pada cell data, tambahkan atribut cellpadding dan cellspacing pada tag table. `<table border="1"cellpadding="6" cellspacing="0">`
+
 ![Margin dan Padding](Screenshot/Margin%20dan%20Padding.png)
+
 ![Output margin dan padding](Screenshot/OutputMargindanPadding.png)
 
 ### Menggabungkan Sel Data
 Untuk menggabungkan sel data, gunakan atribut Rowspan dan Colspan. Atribut berfungsi untuk menggabungkan baris (secara vertikal) dan Colspan berfungsi untuk menggabungkan kolom (secara horizontal)
+
 ![Sel Data](Screenshot/SelData.png)
+
 ![Output Sel Data](Screenshot/OutputSelData.png)
 
-### Mebuat Form
+### Membuat Form
 Buat file baru seperti gambar berikut
+
 ![Form](Screenshot/Form.png)
+
 Selanjutnya tambahkan kode untuk membuat tabel sederhana pada file form seperti gambar berikut
+
 ![Form Tabel](Screenshot/OutputForm.png)
 
 ### Menambahkan Style Pada Form
 Supaya tampilan form lebih menarik, bisa ditambahkan CSS seperti gambar berikut
+
 ![CSS](Screenshot/Style.png)
+
 ![Output CSS](Screenshot/OutputStyle.png)
 
 ## Pertanyaan dan Tugas
@@ -87,4 +100,5 @@ Supaya tampilan form lebih menarik, bisa ditambahkan CSS seperti gambar berikut
 
 </html>
 ```
+
 ![DropList](Screenshot/OutputDropList.png)
