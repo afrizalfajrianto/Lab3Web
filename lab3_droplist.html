@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Form Sepak Bola</title>
+</head>
+
+<body>
+    <h1>Pilih Tim Sepak Bola Favorit Anda</h1>
+
+    <form action="#" method="post">
+        <label for="tim">Pilih Tim:</label>
+        <select name="tim" id="tim">
+            <option value="RealMadrid">Real Madrid</option>
+            <option value="Barcelona">Barcelona</option>
+            <option value="ManchesterUnited">Manchester United</option>
+            <option value="ManchesterCity">ManchesterCity</option>
+            <option value="Juventus">Juventus</option>
+        </select>
+
+        <br><br>
+
+        <label for="timPilihan">Pilih Pemain Favorit (Multiple):</label>
+        <select name="pemain[]" id="pemain" multiple>
+            <option value="Ronaldo">Ronaldo</option>
+            <option value="Messi">Messi</option>
+            <option value="Antony">Antony</option>
+            <option value="Haaland">Haaland</option>
+            <option value="PaulPogba">PaulPogba</option>
+        </select>
+
+        <br><br>
+
+        <input type="submit" value="Kirim">
+    </form>
+</body>
+
+</html>
